@@ -1,0 +1,7 @@
+{
+  "name": "Trình Chuyển Đổi Văn Bản Thành Giọng Nói (TTS)",
+  "description": "Ứng dụng web hiện đại hỗ trợ chuyển đổi văn bản tiếng Việt thành giọng nói chất lượng cao sử dụng công nghệ Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
